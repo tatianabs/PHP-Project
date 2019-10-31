@@ -1,0 +1,64 @@
+#header
+{
+    display:inline-block;
+}
+header
+{
+width:1000px;
+margin: auto;  
+padding:80px;
+
+}
+#Logo
+{
+    display:inline-block;
+    margin-top: 35px;
+    margin-left: 35px;
+    
+}
+#Title  
+{
+    display:inline-block;
+    text-align: center;
+    width: 70%;
+    color:#003366;
+    margin:5px;
+    font-size:55px;
+    padding:5px;
+    margin-left: 500px;
+    
+}
+#nav li
+{
+    display:inline;
+    padding: 0px;
+    margin: 40px;
+    font-weight: bolder;
+    font-size: 25px;
+   
+}
+#nav a:link, #nav a:visited
+{
+    padding: 100px 50px 30px 30px;
+    color:darkslateblue;
+}
+#nav a:hover
+{
+    color:#006666;
+  
+}
+#main
+{
+    width:80%;
+    margin:auto;
+    text-align: center;
+    color:#003366;
+}
+#footer
+{
+    height: 300px;
+    color: #003366;
+    padding-top : 20px;
+    margin-left:700px;
+ 
+}

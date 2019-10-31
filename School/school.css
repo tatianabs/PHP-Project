@@ -1,0 +1,127 @@
+#header
+{
+    display:inline-block;
+}
+header
+{
+width:1000px;
+margin: auto;  
+padding:80px;
+
+
+}
+
+#Logo
+{
+    display:inline-block;
+    margin-top: 35px;
+    margin-left: 35px;
+	float:left;
+    
+}
+#Title  
+{
+    display:inline-block;
+    text-align: center;
+    width: 60%;
+    color:#003366;
+    margin:5px;
+    font-size:55px;
+    padding:5px;
+    margin-left: 320px;
+    
+}
+
+#main
+{
+	display:inline-block;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 400px;
+    text-align: justify;
+    color: #003366;
+    border: 1px;
+	
+}
+#footer
+{
+    height: 300px;
+    color: #003366;
+    padding-top : 20px;
+    margin-left:500px;
+ 
+}
+.notification
+{
+	  color:red;
+}
+
+#mytable
+{
+    border: 1px solid black; 
+    border-collapse:collapse;
+    background-color:#fefbd8;
+}
+
+ #nav 
+{
+    font-size: 25px;
+    position: absolute;
+    left: 42%;
+	padding-top:15px;
+    color:#003366;
+    
+} 
+
+#nav a:link, #nav a:visited
+{
+    padding: 15px 15px 15px 15px;
+     color:#003366;
+}
+#nav a:hover
+{
+    color:green;
+  
+}
+body
+{
+	display:inline-block;
+	margin-right:10%;
+	
+	
+}
+
+ #class
+ {
+	 float:right;
+ }
+#account
+{
+	width:250px;
+	margin-left: 550px;
+    margin-top: 100px;
+	color:#003366;
+}
+fieldset
+{
+	color:#003366;
+}
+input
+{
+	color:#003366;
+	background-color:#eef5f5;
+	
+}
+.failed
+{
+	margin-left: 550px;
+    margin-top: 20px;
+    color: red;
+}
+.success
+{
+	margin-left: 550px;
+    margin-top: 20px;
+    color: red;
+	
+}
